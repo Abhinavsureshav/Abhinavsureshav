@@ -19,7 +19,7 @@
 
 <samp>
 
-- 🔭 I’m currently working on **[Little-Learn](https://github.com/Abhinavsureshav/Little-Learn)**
+- 🔭 I’m worked on **[Little-Learn](https://github.com/Abhinavsureshav/Little-Learn)**
 - 🧠 Deeply passionate about **AI, Machine Learning, and Computer Vision**
 - 💬 Ask me about **Machine Learning, Computer Vision, Python, AI Projects etc.**
 - 📫 How to reach me: **[sureshabhinav8@gmail.com](mailto:sureshabhinav8@gmail.com)**

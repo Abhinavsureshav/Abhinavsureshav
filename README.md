@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./github-contribution-grid-snake.gif" alt="github contribution grid snake animation" />
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Abhinav%20AV&fontSize=50&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20|%20Machine%20Learning%20|%20Computer%20Vision%20|%20Python&descAlignY=55&descAlign=62" />
 </div>
 
@@ -63,4 +67,3 @@
 <div align="center">
   <i>Let's connect and build something awesome together! 🚀</i>
 </div>
-
